@@ -24,6 +24,11 @@ export const OrdersContainer = styled.div`
   width: 100%;
   border-radius: 8px;
 
+  h3 {
+    text-align: center;
+    margin: 50px;
+  }
+
   button {
     background: #fff;
     border: 1px solid rgba(204, 204, 204, 0.4);
